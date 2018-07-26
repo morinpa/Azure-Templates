@@ -12,6 +12,14 @@ The following resources are defined:
 
 - Two FortiGates
 
+### Quick Launch Link
+---
+#### FortiGate High Availability(HA) Pair - 2 NICs 
+[![Create Fortigate High Availability(HA) Pair - 2 NICs](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmorinpa%2FAzure-Templates%2FAzure%20Active-Active%20LoadBalancer%20HA-Ports%2FmainTemplate.json)
+
+---
+
+
 The deployed template will look like the following diagram:
 ---
 
